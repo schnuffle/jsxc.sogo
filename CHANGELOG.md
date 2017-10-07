@@ -1,3 +1,23 @@
+[Unreleased]
+===
+- upgrade jsxc to v3.3.0 ([change log](https://github.com/jsxc/jsxc/blob/master/CHANGELOG.md))
+
+v3.2.1 / 2017-06-02
+===
+- upgrade jsxc to v3.2.1 ([change log](https://github.com/jsxc/jsxc/blob/master/CHANGELOG.md))
+
+v3.1.1 / 2017-02-14
+===
+- upgrade jsxc to v3.1.1 ([change log](https://github.com/jsxc/jsxc/blob/master/CHANGELOG.md))
+
+v3.1.0 / 2017-02-14
+===
+- upgrade jsxc to v3.1.0 ([change log](https://github.com/jsxc/jsxc/blob/master/CHANGELOG.md))
+
+v3.0.1 / 2016-10-28
+===
+- upgrade jsxc to v3.0.1
+
 v2.1.0 / 2015-07-31
 ===
 - upgrade jsxc to v2.1.0
